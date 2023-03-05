@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(163, 191, 221) !important;
+}
+.card{
+    background-color:rgb(163, 191, 221) !important;
+}
+#first{
+    margin: 150px;
+}
+#heading{
+    color: aliceblue;
+}
